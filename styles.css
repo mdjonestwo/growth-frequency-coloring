@@ -1,12 +1,3 @@
-#cont {
-  position:relative;
-  border:1px solid #777;
-  height:400px;
-}
-
-#cont > canvas {
-  position:absolute;
-  left:0;
-  top:0;
-  cursor:crosshair;
+canvas {
+  border: solid 10px black;
 }
